@@ -1,0 +1,11 @@
+# drafts stay local until reviewed, then move to notebooks/
+drafts/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+*.pat
+*.token
+.DS_Store
+# original branded draft, never publish
+01_introduction_of_machine_learning_template.ipynb
